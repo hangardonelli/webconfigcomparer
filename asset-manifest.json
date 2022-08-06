@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webconfigcomparer/static/css/main.d60b4f83.css",
+    "main.js": "/webconfigcomparer/static/js/main.b29376cb.js",
+    "static/js/787.51de5897.chunk.js": "/webconfigcomparer/static/js/787.51de5897.chunk.js",
+    "index.html": "/webconfigcomparer/index.html",
+    "main.d60b4f83.css.map": "/webconfigcomparer/static/css/main.d60b4f83.css.map",
+    "main.b29376cb.js.map": "/webconfigcomparer/static/js/main.b29376cb.js.map",
+    "787.51de5897.chunk.js.map": "/webconfigcomparer/static/js/787.51de5897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d60b4f83.css",
+    "static/js/main.b29376cb.js"
+  ]
+}
