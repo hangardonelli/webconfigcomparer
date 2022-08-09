@@ -13,6 +13,9 @@
 </p>
 
   <h4>Try the <a href="https://hangardonelli.github.io/webconfigcomparer">live-demo here</a></h4>
+  <h5>Or view the source-code in<a href="https://github.com/hangardonelli/webconfigcomparer/tree/master"> master branch</a></h5>
+  
+  
   
   Drag and drop your app.config or web.config files into the boxes. You can select only one, but you will not be able to compare it.
 
