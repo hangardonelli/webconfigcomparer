@@ -7,7 +7,7 @@
   <h3 align="center">Web Config Validator</h3>
 
   <p align="center">
-    Web application to compare 2 webconfigs. Special for debugging problems in development and production environments
+    Web application to compare 2 .NET webconfigs. Special for debugging problems in development and production environments
     
   
 </p>
