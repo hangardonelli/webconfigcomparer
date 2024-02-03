@@ -14,9 +14,10 @@ export const isBoolean = (row) =>
 export const isPassword = (row) =>
   row &&
   row.key &&
-  (row.key.toLowerCase().includes("clave") ||
-  row.key.toLowerCase().includes("contrasena") ||
-  row.key.toLowerCase().includes("contraseña") ||
-  row.key.toLowerCase().includes("token") ||
-  row.key.toLowerCase().includes("secret") ||
+  (row.key.toLowerCase().includes("clave")      ||
+  row.key.toLowerCase().includes("key")         ||
+  row.key.toLowerCase().includes("contrasena")  ||
+  row.key.toLowerCase().includes("contraseña")  ||
+  row.key.toLowerCase().includes("token")       ||
+  row.key.toLowerCase().includes("secret")      ||
     row.key.toLowerCase().includes("password"));
